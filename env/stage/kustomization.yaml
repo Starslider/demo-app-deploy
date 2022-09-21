@@ -6,4 +6,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/starslider/demo-app
-  newTag: b94ec1bd73ea749c40abc4912003c8a72ba8c50b
+  newTag: aaba778218eb3debfb5ccb20c81b06e5fd191c80
