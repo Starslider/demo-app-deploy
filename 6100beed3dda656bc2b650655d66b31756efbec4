@@ -1,1 +1,3 @@
 image: ghcr.io/starslider/demo-app:aaba778218eb3debfb5ccb20c81b06e5fd191c80
+
+env: stage
