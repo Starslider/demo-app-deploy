@@ -3,3 +3,8 @@ kind: Kustomization
 
 resources:
 - ../../base
+
+images:
+  - name: ghcr.io/argocon2022-workshop/demo-app
+    newName: ghcr.io/starslider/demo-app
+    newTag: 658f6788b76760598fd0632fbcb4ab19ea92d489
