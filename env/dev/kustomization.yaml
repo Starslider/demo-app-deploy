@@ -3,6 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+#my comment
 
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
