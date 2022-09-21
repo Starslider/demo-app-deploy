@@ -7,7 +7,7 @@ spec:
   project: starslider
   source:
     repoURL: 'https://github.com/Starslider/demo-app-deploy'
-    path: env/prod
+    path: /env/prod
     targetRevision: main
   destination:
     namespace: service-starslider-prod
